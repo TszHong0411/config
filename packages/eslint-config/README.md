@@ -29,6 +29,7 @@ The configuration includes the following plugins and extends:
 - plugin:@typescript-eslint/recommended
 - plugin:@typescript-eslint/eslint-recommended
 - plugin:react-hooks/recommended
+- plugin:jsx-a11y/recommended
 - plugin:prettier/recommended
 - simple-import-sort
 - unused-imports
