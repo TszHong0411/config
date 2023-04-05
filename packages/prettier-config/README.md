@@ -18,7 +18,6 @@ To use this prettier config, just reference it in your `package.json` file:
 {
   "name": "my-project",
   "prettier": "@tszhong0411/prettier-config",
-  // ...
   "version": "1.0.0"
 }
 ```
