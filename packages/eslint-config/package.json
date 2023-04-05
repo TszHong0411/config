@@ -1,0 +1,44 @@
+{
+  "name": "@tszhong0411/eslint-config",
+  "version": "1.0.0",
+  "description": "The eslint config for tszhong0411 projects",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "eslint-config-tszhong0411",
+    "tszhong0411"
+  ],
+  "author": "Lai Tsz Hong info@honghong.me (https://github.com/tszhong0411/)",
+  "homepage": "https://github.com/tszhong0411/config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tszhong0411/config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tszhong0411/config/issues"
+  },
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "eslint": "^8.37.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-unused-imports": "^2.0.0"
+  }
+}
