@@ -34,7 +34,13 @@ module.exports = {
     // Eslint
     indent: ['error', 2],
     'linebreak-style': ['error', 'unix'],
-    quotes: ['error', 'single'],
+    quotes: [
+      'error',
+      'single',
+      {
+        avoidEscape: true,
+      },
+    ],
     semi: ['error', 'never'],
     // Typescript
     '@typescript-eslint/no-unused-vars': 'off',
