@@ -32,7 +32,6 @@ module.exports = {
   },
   rules: {
     // Eslint
-    indent: ['error', 2],
     'linebreak-style': ['error', 'unix'],
     quotes: [
       'error',
