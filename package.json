@@ -12,7 +12,11 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "format": "prettier -w ."
+  },
   "devDependencies": {
+    "@changesets/cli": "^2.26.1",
     "@tszhong0411/prettier-config": "workspace:*",
     "husky": "^8.0.3",
     "prettier": "^2.8.7"
