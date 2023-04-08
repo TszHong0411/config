@@ -1,7 +1,7 @@
 {
   "name": "@tszhong0411/tsconfig",
-  "version": "1.0.0",
-  "description": "The typescirpt config for tszhong0411 projects",
+  "version": "1.0.1",
+  "description": "The typescript config for tszhong0411 projects",
   "main": "tsconfig.json",
   "license": "MIT",
   "keywords": [
