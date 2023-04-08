@@ -38,7 +38,6 @@ The configuration includes the following plugins and extends:
 
 The configuration includes the following rules:
 
-- Indentation should be tabs
 - Linebreaks should be Windows-style
 - Quotes should be single quotes
 - Semicolons should be omitted
