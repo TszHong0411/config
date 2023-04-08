@@ -1,6 +1,6 @@
 {
   "name": "@tszhong0411/eslint-config",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "The eslint config for tszhong0411 projects",
   "main": "index.js",
   "license": "MIT",
@@ -41,6 +41,6 @@
     "eslint-plugin-unused-imports": "^2.0.0"
   },
   "devDependencies": {
-    "eslint": "^8.37.0"
+    "eslint": "^8.38.0"
   }
 }
