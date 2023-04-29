@@ -43,11 +43,6 @@ module.exports = {
     semi: ['error', 'never'],
     // Typescript
     '@typescript-eslint/no-unused-vars': 'off',
-    // React
-    'react/react-in-jsx-scope': 'off',
-    'react/button-has-type': 'error',
-    'react/prop-types': 'off',
-    'react/no-array-index-key': 'error',
     // Unused import
     'unused-imports/no-unused-imports': 'error',
     'unused-imports/no-unused-vars': [
