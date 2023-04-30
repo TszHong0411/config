@@ -43,6 +43,8 @@ module.exports = {
     semi: ['error', 'never'],
     // Typescript
     '@typescript-eslint/no-unused-vars': 'off',
+    // React
+    'react/prop-types': 'off',
     // Unused import
     'unused-imports/no-unused-imports': 'error',
     'unused-imports/no-unused-vars': [
