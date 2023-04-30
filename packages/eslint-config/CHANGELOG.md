@@ -1,5 +1,11 @@
 # @tszhong0411/eslint-config
 
+## 1.0.10
+
+### Patch Changes
+
+- 2aa4763: add some react rules
+
 ## 1.0.9
 
 ### Patch Changes
