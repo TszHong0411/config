@@ -43,6 +43,7 @@ module.exports = {
     semi: ['error', 'never'],
     // Typescript
     '@typescript-eslint/no-unused-vars': 'off',
+    '@typescript-eslint/no-empty-function': 'off',
     // React
     'react/prop-types': 'off',
     'react/react-in-jsx-scope': 'off',
