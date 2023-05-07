@@ -17,12 +17,12 @@
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",
-    "@commitlint/cli": "^17.6.1",
-    "@commitlint/config-conventional": "^17.6.1",
+    "@commitlint/cli": "^17.6.3",
+    "@commitlint/config-conventional": "^17.6.3",
     "@tszhong0411/prettier-config": "workspace:*",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^8.0.3",
-    "prettier": "^2.8.7"
+    "prettier": "^2.8.8"
   },
   "prettier": "@tszhong0411/prettier-config",
   "config": {
