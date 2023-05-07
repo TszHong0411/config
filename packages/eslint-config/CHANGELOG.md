@@ -1,5 +1,11 @@
 # @tszhong0411/eslint-config
 
+## 1.0.12
+
+### Patch Changes
+
+- 0ec1ca7: add a typescript rule
+
 ## 1.0.11
 
 ### Patch Changes
