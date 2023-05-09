@@ -48,6 +48,7 @@ module.exports = {
     'react/prop-types': 'off',
     'react/react-in-jsx-scope': 'off',
     'react/no-array-index-key': 'error',
+    'react/no-unescaped-entities': 'off',
     // Unused import
     'unused-imports/no-unused-imports': 'error',
     'unused-imports/no-unused-vars': [
