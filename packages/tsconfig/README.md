@@ -4,10 +4,14 @@ The TypeScript config for tszhong0411 projects.
 
 ## Installation
 
-You can install `@tszhong0411/tsconfig` using npm:
+Install the package via npm or yarn:
 
 ```bash
 npm install --save-dev @tszhong0411/tsconfig
+
+# or
+
+yarn add --dev @tszhong0411/tsconfig
 ```
 
 ## Usage

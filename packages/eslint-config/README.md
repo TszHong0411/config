@@ -1,13 +1,17 @@
 # @tszhong0411/eslint-config
 
-This package provides an ESLint configuration for TypeScript projects by tszhong0411.
+The ESLint configuration for TypeScript projects by tszhong0411.
 
 ## Installation
 
-Install the package via npm:
+Install the package via npm or yarn:
 
 ```sh
 npm install --save-dev @tszhong0411/eslint-config
+
+# or
+
+yarn add --dev @tszhong0411/eslint-config
 ```
 
 ## Usage

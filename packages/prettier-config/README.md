@@ -4,10 +4,14 @@ The prettier config for tszhong0411 projects.
 
 ## Installation
 
-You can install this package using npm:
+Install the package via npm or yarn:
 
 ```bash
 npm install --save-dev @tszhong0411/prettier-config
+
+# or
+
+yarn add --dev @tszhong0411/prettier-config
 ```
 
 ## Usage
