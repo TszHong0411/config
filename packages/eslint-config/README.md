@@ -38,16 +38,6 @@ The configuration includes the following plugins and extends:
 - simple-import-sort
 - unused-imports
 
-## Rules
-
-The configuration includes the following rules:
-
-- Linebreaks should be Windows-style
-- Quotes should be single quotes
-- Semicolons should be omitted
-- Unused variables are allowed but unused imports are not
-- Imports should be sorted in a specific order
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
