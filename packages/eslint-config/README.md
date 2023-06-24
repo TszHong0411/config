@@ -1,17 +1,17 @@
-# @tszhong0411/eslint-config
+# @hong/eslint-config
 
-The ESLint configuration for TypeScript projects by tszhong0411.
+The ESLint configuration for TypeScript projects by codewithhong.
 
 ## Installation
 
 Install the package via npm or yarn:
 
 ```sh
-npm install --save-dev @tszhong0411/eslint-config
+npm install --save-dev @hong/eslint-config
 
 # or
 
-yarn add --dev @tszhong0411/eslint-config
+yarn add --dev @hong/eslint-config
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ Extend the configuration in your ESLint configuration file:
 
 ```js
 module.exports = {
-  extends: ['@tszhong0411/eslint-config'],
+  extends: ['@hong/eslint-config'],
 }
 ```
 

@@ -1,14 +1,14 @@
 # config
 
-A monorepo containing shared configuration files for tszhong0411 projects, including ESLint configurations, Prettier configurations, and TypeScript configurations.
+A monorepo containing shared configuration files for CodeWithHong projects, including ESLint configurations, Prettier configurations, and TypeScript configurations.
 
 ## Packages
 
 This monorepo includes the following packages:
 
-- [@tszhong0411/eslint-config](./packages/eslint-config): ESLint configuration for tszhong0411 projects
-- [@tszhong0411/prettier-config](./packages/prettier-config): Prettier configuration for tszhong0411 projects
-- [@tszhong0411/tsconfig](./packages/tsconfig): TypeScript configuration for tszhong0411 projects
+- [@hong/eslint-config](./packages/eslint-config): ESLint configuration for CodeWithHong projects
+- [@hong/prettier-config](./packages/prettier-config): Prettier configuration for CodeWithHong projects
+- [@hong/tsconfig](./packages/tsconfig): TypeScript configuration for CodeWithHong projects
 
 ## Usage
 

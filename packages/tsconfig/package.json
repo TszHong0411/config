@@ -1,22 +1,22 @@
 {
-  "name": "@tszhong0411/tsconfig",
+  "name": "@hong/tsconfig",
   "version": "1.0.1",
-  "description": "The typescript config for tszhong0411 projects",
+  "description": "The typescript config for CodeWithHong projects",
   "main": "tsconfig.json",
   "license": "MIT",
   "keywords": [
-    "tszhong0411",
+    "codewithhong",
     "tsconfig",
     "typescript"
   ],
-  "author": "Lai Tsz Hong <info@honghong.me> (https://github.com/tszhong0411/)",
-  "homepage": "https://github.com/tszhong0411/config#readme",
+  "author": "Lai Tsz Hong <info@honghong.me> (https://github.com/codewithhong/)",
+  "homepage": "https://github.com/codewithhong/config#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tszhong0411/config.git"
+    "url": "git+https://github.com/codewithhong/config.git"
   },
   "bugs": {
-    "url": "https://github.com/tszhong0411/config/issues"
+    "url": "https://github.com/codewithhong/config/issues"
   },
   "files": [
     "tsconfig.json",
