@@ -1,5 +1,5 @@
 {
-  "name": "@hong/prettier-config",
+  "name": "@codewithhong/prettier-config",
   "version": "2.0.0",
   "description": "The prettier config for CodeWithHong projects",
   "main": "index.js",

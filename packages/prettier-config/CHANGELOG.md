@@ -1,4 +1,4 @@
-# @hong/prettier-config
+# @codewithhong/prettier-config
 
 ## 2.0.0
 

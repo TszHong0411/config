@@ -1,5 +1,5 @@
 {
-  "name": "@hong/config",
+  "name": "@codewithhong/config",
   "version": "0.0.0",
   "description": "Shared configuration files for CodeWithHong projects",
   "author": "Lai Tsz Hong <info@honghong.me> (https://github.com/codewithhong/)",
@@ -23,7 +23,7 @@
     "husky": "^8.0.3",
     "prettier": "^2.8.8"
   },
-  "prettier": "@hong/prettier-config",
+  "prettier": "@codewithhong/prettier-config",
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"

@@ -1,4 +1,4 @@
-# @hong/tsconfig
+# @codewithhong/tsconfig
 
 ## 2.0.0
 

@@ -6,9 +6,9 @@ A monorepo containing shared configuration files for CodeWithHong projects, incl
 
 This monorepo includes the following packages:
 
-- [@hong/eslint-config](./packages/eslint-config): ESLint configuration for CodeWithHong projects
-- [@hong/prettier-config](./packages/prettier-config): Prettier configuration for CodeWithHong projects
-- [@hong/tsconfig](./packages/tsconfig): TypeScript configuration for CodeWithHong projects
+- [@codewithhong/eslint-config](./packages/eslint-config): ESLint configuration for CodeWithHong projects
+- [@codewithhong/prettier-config](./packages/prettier-config): Prettier configuration for CodeWithHong projects
+- [@codewithhong/tsconfig](./packages/tsconfig): TypeScript configuration for CodeWithHong projects
 
 ## Usage
 

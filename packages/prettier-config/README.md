@@ -1,4 +1,4 @@
-# @hong/prettier-config
+# @codewithhong/prettier-config
 
 The prettier config for CodeWithHong projects.
 
@@ -7,11 +7,11 @@ The prettier config for CodeWithHong projects.
 Install the package via npm or yarn:
 
 ```bash
-npm install --save-dev @hong/prettier-config
+npm install --save-dev @codewithhong/prettier-config
 
 # or
 
-yarn add --dev @hong/prettier-config
+yarn add --dev @codewithhong/prettier-config
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ To use this prettier config, just reference it in your `package.json` file:
 ```json
 {
   "name": "my-project",
-  "prettier": "@hong/prettier-config",
+  "prettier": "@codewithhong/prettier-config",
   "version": "1.0.0"
 }
 ```
@@ -29,7 +29,7 @@ To use this prettier config, just reference it in your `package.json` file:
 You can also reference it in your `.prettierrc.js` file:
 
 ```js
-module.exports = '@hong/prettier-config'
+module.exports = '@codewithhong/prettier-config'
 ```
 
 ## Configuration
@@ -50,7 +50,7 @@ You can modify these settings by creating your own `prettier.config.js` file and
 
 ```js
 module.exports = {
-  ...require('@hong/prettier-config'),
+  ...require('@codewithhong/prettier-config'),
   semi: true,
 }
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "@hong/tsconfig",
+  "name": "@codewithhong/tsconfig",
   "version": "2.0.0",
   "description": "The typescript config for CodeWithHong projects",
   "main": "tsconfig.json",

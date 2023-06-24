@@ -1,5 +1,5 @@
 {
-  "name": "@hong/eslint-config",
+  "name": "@codewithhong/eslint-config",
   "version": "2.0.0",
   "description": "The eslint config for CodeWithHong projects",
   "main": "index.js",
