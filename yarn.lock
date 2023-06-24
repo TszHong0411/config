@@ -510,11 +510,6 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@prisma/prisma-fmt-wasm@4.12.0-67.659ef412370fa3b41cd7bf6e94587c1dfb7f67e7":
-  version "4.12.0-67.659ef412370fa3b41cd7bf6e94587c1dfb7f67e7"
-  resolved "https://registry.npmjs.org/@prisma/prisma-fmt-wasm/-/prisma-fmt-wasm-4.12.0-67.659ef412370fa3b41cd7bf6e94587c1dfb7f67e7.tgz"
-  integrity sha512-jh9ajkGl3Lw9uTKEwlNBSh79a1v6C1JducqxakgkQyLev6kG1xxkuc2rDGrIDxUdpCOuuPRjuSCHhjnv7qLLgQ==
-
 "@prisma/prisma-fmt-wasm@4.13.0-52.integration-mobc-upstream-d100a9299fcb9cffb064301998e9a94ce2722c49":
   version "4.13.0-52.integration-mobc-upstream-d100a9299fcb9cffb064301998e9a94ce2722c49"
   resolved "https://registry.yarnpkg.com/@prisma/prisma-fmt-wasm/-/prisma-fmt-wasm-4.13.0-52.integration-mobc-upstream-d100a9299fcb9cffb064301998e9a94ce2722c49.tgz#7a07bbaab4f15b154061ef23ca9f5a94ccbacdab"
@@ -539,15 +534,6 @@
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@tsconfig/node16/-/node16-1.0.3.tgz#472eaab5f15c1ffdd7f8628bd4c4f753995ec79e"
   integrity sha512-yOlFc+7UtL/89t2ZhjPvvB/DeAr3r+Dq58IgzsFkOAvVC6NMJXmCGjbptdXdR9qsX7pKcTL+s87FtYREi2dEEQ==
-
-"@tszhong0411/prettier-config@workspace:*":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@tszhong0411/prettier-config/-/prettier-config-1.0.0.tgz#ff820ae3a1eccb1ece987ccf5513b5988810ac34"
-  integrity sha512-vblwZLnzFesulN3JlRSlkCLW4jBslFKzh5IK/S5lS2YhnhpBFFzrKDcDyDVJaq61weVD5Zn2xV5/CqmrttncLg==
-  dependencies:
-    prettier-plugin-prisma "^4.12.0"
-    prettier-plugin-sort-json "^1.0.0"
-    prettier-plugin-tailwindcss "^0.2.6"
 
 "@types/is-ci@^3.0.0":
   version "3.0.0"
@@ -3027,13 +3013,6 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier-plugin-prisma@^4.12.0:
-  version "4.12.0"
-  resolved "https://registry.npmjs.org/prettier-plugin-prisma/-/prettier-plugin-prisma-4.12.0.tgz"
-  integrity sha512-5wb4B+9UfJEwp+e5amuOINh23yCjjaEUXDrIzbvFWFHUx2SmbVHdyd9VsRo9VNP34gqVdLBaltyTXV5NCAaAUA==
-  dependencies:
-    "@prisma/prisma-fmt-wasm" "4.12.0-67.659ef412370fa3b41cd7bf6e94587c1dfb7f67e7"
-
 prettier-plugin-prisma@^4.13.0:
   version "4.13.0"
   resolved "https://registry.yarnpkg.com/prettier-plugin-prisma/-/prettier-plugin-prisma-4.13.0.tgz#dbcf6b727011629dacfe6e1ec5a017db9929c6cf"
@@ -3047,11 +3026,6 @@ prettier-plugin-sort-json@^1.0.0:
   integrity sha512-XgcaF/Sojax1vD6j53wNIByx0rp7ecang+A8W0eM+Ks3yBFu/qXjJNvUtC1lEWeYbNfmRs/d8FyYJCYozAVENw==
   dependencies:
     "@types/prettier" "^2.7.2"
-
-prettier-plugin-tailwindcss@^0.2.6:
-  version "0.2.6"
-  resolved "https://registry.npmjs.org/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.2.6.tgz"
-  integrity sha512-F+7XCl9RLF/LPrGdUMHWpsT6TM31JraonAUyE6eBmpqymFvDwyl0ETHsKFHP1NG+sEfv8bmKqnTxEbWQbHPlBA==
 
 prettier-plugin-tailwindcss@^0.2.8:
   version "0.2.8"

@@ -16,6 +16,7 @@
     "format": "prettier -w ."
   },
   "devDependencies": {
+    "@codewithhong/prettier-config": "^2.0.0",
     "@changesets/cli": "^2.26.1",
     "@commitlint/cli": "^17.6.3",
     "@commitlint/config-conventional": "^17.6.3",
