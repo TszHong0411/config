@@ -1,4 +1,4 @@
-# @tszhong0411/prettier-config
+# @hong/prettier-config
 
 ## 2.0.0
 

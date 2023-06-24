@@ -1,4 +1,4 @@
-# @tszhong0411/eslint-config
+# @hong/eslint-config
 
 ## 2.0.0
 
