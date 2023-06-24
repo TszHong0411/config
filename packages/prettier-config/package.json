@@ -1,6 +1,6 @@
 {
   "name": "@hong/prettier-config",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "The prettier config for CodeWithHong projects",
   "main": "index.js",
   "license": "MIT",
