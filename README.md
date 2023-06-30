@@ -6,7 +6,7 @@ A monorepo containing shared configuration files for tszhong0411 projects, inclu
 
 This monorepo includes the following packages:
 
-- [@tszhong0411/eslint-config](./packages/eslint-config): ESLint configuration fortszhong0411g projects
+- [@tszhong0411/eslint-config](./packages/eslint-config): ESLint configuration for tszhong0411 projects
 - [@tszhong0411/prettier-config](./packages/prettier-config): Prettier configuration for tszhong0411 projects
 - [@tszhong0411/tsconfig](./packages/tsconfig): TypeScript configuration for tszhong0411 projects
 
