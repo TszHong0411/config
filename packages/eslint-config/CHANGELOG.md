@@ -1,10 +1,4 @@
-# @codewithhong/eslint-config
-
-## 2.0.0
-
-### Major Changes
-
-- 18f32e1: New package name
+# @tszhong0411/eslint-config
 
 ## 1.0.13
 

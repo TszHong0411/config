@@ -1,13 +1,13 @@
 {
-  "name": "@codewithhong/config",
+  "name": "@tszhong0411/config",
   "version": "0.0.0",
-  "description": "Shared configuration files for CodeWithHong projects",
-  "author": "Lai Tsz Hong <info@honghong.me> (https://github.com/codewithhong/)",
+  "description": "Shared configuration files for tszhong0411 projects",
+  "author": "Lai Tsz Hong <info@honghong.me> (https://github.com/tszhong0411/)",
   "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codewithhong/config.git"
+    "url": "git+https://github.com/tszhong0411/config.git"
   },
   "workspaces": [
     "packages/*"
@@ -16,15 +16,15 @@
     "format": "prettier -w ."
   },
   "devDependencies": {
-    "@codewithhong/prettier-config": "^2.0.0",
     "@changesets/cli": "^2.26.1",
     "@commitlint/cli": "^17.6.3",
     "@commitlint/config-conventional": "^17.6.3",
+    "@tszhong0411/prettier-config": "^1.0.2",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^8.0.3",
     "prettier": "^2.8.8"
   },
-  "prettier": "@codewithhong/prettier-config",
+  "prettier": "@tszhong0411/prettier-config",
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"

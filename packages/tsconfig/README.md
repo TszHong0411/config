@@ -1,30 +1,30 @@
-# @codewithhong/tsconfig
+# @tszhong0411/tsconfig
 
-The TypeScript config for CodeWithHong projects.
+The TypeScript config for tszhong0411 projects.
 
 ## Installation
 
 Install the package via npm or yarn:
 
 ```bash
-npm install --save-dev @codewithhong/tsconfig
+npm install --save-dev @tszhong0411/tsconfig
 
 # or
 
-yarn add --dev @codewithhong/tsconfig
+yarn add --dev @tszhong0411/tsconfig
 ```
 
 ## Usage
 
-To use `@codewithhong/tsconfig`, create a `tsconfig.json` file in the root directory of your TypeScript project and extend `@codewithhong/tsconfig`:
+To use `@tszhong0411/tsconfig`, create a `tsconfig.json` file in the root directory of your TypeScript project and extend `@tszhong0411/tsconfig`:
 
 ```json
 {
-  "extends": "@codewithhong/tsconfig"
+  "extends": "@tszhong0411/tsconfig"
 }
 ```
 
-This will extend the `tsconfig.json` file with all of the options and settings defined in `@codewithhong/tsconfig`.
+This will extend the `tsconfig.json` file with all of the options and settings defined in `@tszhong0411/tsconfig`.
 
 ## License
 

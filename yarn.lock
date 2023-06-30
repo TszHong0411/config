@@ -535,6 +535,15 @@
   resolved "https://registry.yarnpkg.com/@tsconfig/node16/-/node16-1.0.3.tgz#472eaab5f15c1ffdd7f8628bd4c4f753995ec79e"
   integrity sha512-yOlFc+7UtL/89t2ZhjPvvB/DeAr3r+Dq58IgzsFkOAvVC6NMJXmCGjbptdXdR9qsX7pKcTL+s87FtYREi2dEEQ==
 
+"@tszhong0411/prettier-config@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@tszhong0411/prettier-config/-/prettier-config-1.0.2.tgz#c1cbfcefd200efe9a70b7ad395e21c43c2c894aa"
+  integrity sha512-SS+M28YfFthERe/BSA2bV807rf7BWDayhPAT1nXT2TGl0pwLXwFTBtJ6tHHwPYDnTJYuiPASRaNMBjLDUDEueg==
+  dependencies:
+    prettier-plugin-prisma "^4.13.0"
+    prettier-plugin-sort-json "^1.0.0"
+    prettier-plugin-tailwindcss "^0.2.8"
+
 "@types/is-ci@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@types/is-ci/-/is-ci-3.0.0.tgz#7e8910af6857601315592436f030aaa3ed9783c3"

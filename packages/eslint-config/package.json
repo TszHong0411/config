@@ -1,23 +1,23 @@
 {
-  "name": "@codewithhong/eslint-config",
-  "version": "2.0.0",
-  "description": "The eslint config for CodeWithHong projects",
+  "name": "@tszhong0411/eslint-config",
+  "version": "1.0.13",
+  "description": "The eslint config for tszhong0411 projects",
   "main": "index.js",
   "license": "MIT",
   "keywords": [
     "eslint",
     "eslintconfig",
     "eslint-config",
-    "codewithhong"
+    "tszhong0411"
   ],
-  "author": "Lai Tsz Hong info@honghong.me (https://github.com/codewithhong/)",
-  "homepage": "https://github.com/codewithhong/config#readme",
+  "author": "Lai Tsz Hong info@honghong.me (https://github.com/tszhong0411/)",
+  "homepage": "https://github.com/tszhong0411/config#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codewithhong/config.git"
+    "url": "git+https://github.com/tszhong0411/config.git"
   },
   "bugs": {
-    "url": "https://github.com/codewithhong/config/issues"
+    "url": "https://github.com/tszhong0411/config/issues"
   },
   "files": [
     "index.js",
